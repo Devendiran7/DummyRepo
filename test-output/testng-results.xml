@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="300" started-at="2021-10-21T08:43:01Z" finished-at="2021-10-21T08:43:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="300" started-at="2021-10-21T08:43:01Z" finished-at="2021-10-21T08:43:02Z">
+      <class name="org.test.testSuite">
+        <test-method status="PASS" signature="test()[pri:0, instance:org.test.testSuite@343f4d3d]" name="test" duration-ms="16" started-at="2021-10-21T08:43:02Z" finished-at="2021-10-21T08:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.test.testSuite@343f4d3d]" name="test1" duration-ms="0" started-at="2021-10-21T08:43:02Z" finished-at="2021-10-21T08:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:org.test.testSuite@343f4d3d]" name="test2" duration-ms="0" started-at="2021-10-21T08:43:02Z" finished-at="2021-10-21T08:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- org.test.testSuite -->
+      <class name="org.test.SampleClass">
+        <test-method status="PASS" signature="hello()[pri:0, instance:org.test.SampleClass@57baeedf]" name="hello" duration-ms="47" started-at="2021-10-21T08:43:02Z" finished-at="2021-10-21T08:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello -->
+        <test-method status="PASS" signature="hello1()[pri:0, instance:org.test.SampleClass@57baeedf]" name="hello1" duration-ms="0" started-at="2021-10-21T08:43:02Z" finished-at="2021-10-21T08:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello1 -->
+        <test-method status="PASS" signature="hello2()[pri:0, instance:org.test.SampleClass@57baeedf]" name="hello2" duration-ms="15" started-at="2021-10-21T08:43:02Z" finished-at="2021-10-21T08:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello2 -->
+      </class> <!-- org.test.SampleClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
