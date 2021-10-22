@@ -19,6 +19,11 @@ public class SampleClass {
 		System.out.println("hello1");
 	}
 	
+	@Test
+	private void newt() {
+		System.out.println("NewDEV");
+	}
+	
 	
 
 }
